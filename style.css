@@ -1,0 +1,30 @@
+.calculadora{
+    background-color: rgb(15, 75, 15);
+    max-width: 300px;
+    max-height: 600px;
+    padding: 20px;
+}
+
+.pantalla{
+    margin-left: 15px;
+    width: 250px;
+    height: 70px;
+    background-color: white;
+    text-align: end;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+table{
+    width: 250px;
+    margin-left: 15px;
+    margin-top: 10px;
+    background-color: rgb(195, 184, 169);
+
+}
+
+td {
+    background-color: antiquewhite;
+    border: rgb(21, 20, 19) 2px solid;
+    text-align: center;
+}
